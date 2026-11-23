@@ -1,0 +1,6 @@
+{
+  "name": "Dr Chawla’s Multi-speciality Famicare Dental Clinic",
+  "description": "Luxury multi-speciality dental clinic website for Dr Chawla’s Multi-speciality Famicare Dental Clinic in Sector 15, Chandigarh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
